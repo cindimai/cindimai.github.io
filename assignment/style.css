@@ -1,0 +1,55 @@
+
+*{box-sizing: border-box;
+}
+
+
+.title {
+	color: #696969;
+	font-family: "Arial";
+	font-size: 200%;
+}
+
+.smallTitle{
+	color: #696969;
+	font-family: "Arial";
+	font-size: 120%;
+}
+
+.description{
+	color:	#808080;
+	font-family: "Times New Roman";
+	font-size: 110%;
+	margin-right: 10px;	
+}
+
+.place{
+	text-transform: uppercase;
+	color:	#808080;
+	font-family: "Times New Roman";
+	font-size: 100%;		
+}
+
+
+.line1{
+	display: flex;
+}
+.line2{
+	display: flex;
+
+}
+.column1{
+	width: 250px;
+}
+.column2{
+	width: 250px;
+}
+.column3{
+	width: 250px;
+}
+
+.bottom{
+	display: flex;	
+}
+.place{
+	width: 250px;	
+}
